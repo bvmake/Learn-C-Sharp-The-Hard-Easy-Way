@@ -7,3 +7,6 @@
     2. Readability first. Brevity Second.
         1. What does dictionary.ContainsKey(s) mean?
         2. Tell them in English (in code)
+    3. Abhor magic
+       1. Seek to understand
+       2. Magic degrades understanding. People unfamiliar with spells are powerless to undo them.
