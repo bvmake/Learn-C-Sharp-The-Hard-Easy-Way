@@ -4,3 +4,5 @@
     2. "Hello World".Dump();
 2. Values
     1. Readability first. Brevity Second.
+        1. What does dictionary.ContainsKey(s) mean?
+        2. Tell them in English (in code)
