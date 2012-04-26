@@ -2,6 +2,12 @@
 1. The two rules
     1. Never be afraid to [ask](http://twitter.com/#!/rstackhouse) for a better explanation
     2. Continue the conversation
+        1. Learn how to research
+            1. Search first
+            1. Ask Second
+            1. Share third (the internet is a participatory communication device)
+	1. Use the #bvmake Twitter hashtag
+        2. [StackOverflow.com](http://stackoverflow.com) is your friend
 1. Download LinqPad
     1. Expression
         1. 
