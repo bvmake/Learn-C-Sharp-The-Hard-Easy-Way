@@ -6,9 +6,9 @@
             1. Search first
             1. Ask Second
             1. Share third (the internet is a participatory communication device)
-	1. Use the #bvmake Twitter hashtag
-        2. [StackOverflow.com](http://stackoverflow.com) is your friend
-1. Download LinqPad
+	2. Use the #bvmake Twitter hashtag
+        3. [StackOverflow.com](http://stackoverflow.com) is your friend
+2. Download LinqPad
     1. Expression
         1. 
 <pre>1 + 1</pre>
@@ -32,7 +32,7 @@ void Main()
     }
 }
 </pre>
-2. Values
+3. Values
     1. Write code for humans. Write programs for machines.
     2. Readability first. Brevity Second.
         1. What does dictionary.ContainsKey(s) mean?
@@ -40,7 +40,7 @@ void Main()
     3. Abhor magic
        1. Seek to understand
        2. Magic degrades understanding. People unfamiliar with spells are powerless to undo them.
-3. Advice
+4. Advice
     1. Avoid the buzzword bingo types
        1. If it seems like someone is trying to sell you something, they probably are.
            1. People who purchase software licenses (i.e. MSDN subscriptions) will try to justify the expense by trying to get everyone to use their purchase all the time on everything.
