@@ -44,3 +44,7 @@ void Main()
     1. Avoid the buzzword bingo types
        1. If it seems like someone is trying to sell you something, they probably are.
            1. People who purchase software licenses (i.e. MSDN subscriptions) will try to justify the expense by trying to get everyone to use their purchase all the time on everything.
+    2. With great power comes great responsibility.
+        1. Know what a piece of code is going to do before you execute it (see #3 from values)
+        2. Don't be lazy.
+            1. You chose to use this language, so do everyone a favor and continue to learn it.
