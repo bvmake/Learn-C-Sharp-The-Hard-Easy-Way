@@ -1,7 +1,28 @@
 # Learn C# the ~~Hard~~ Easy Way
 1. Download LinqPad
-    1. 1 + 1
-    2. "Hello World".Dump();
+    1. Expression
+        1. 
+<pre>1 + 1</pre>
+    2. Statement
+        1. 
+<pre>"Hello World".Dump();</pre>
+    3. Statements
+        1.
+<pre>var i = 1;
+    i++;
+    i.Dump();
+</pre>
+    4. Program
+        1.  
+<pre>
+void Main()
+{
+    for(var i = 1; i <= 10; i++)
+	{
+	    i.Dump();
+    }
+}
+</pre>
 2. Values
     1. Write code for humans. Write programs for machines.
     2. Readability first. Brevity Second.
