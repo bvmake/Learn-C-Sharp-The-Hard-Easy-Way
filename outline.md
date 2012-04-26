@@ -4,8 +4,8 @@
     2. Continue the conversation
         1. Learn how to research
             1. Search first
-            1. Ask Second
-            1. Share third (the internet is a participatory communication device)
+            2. Ask Second
+            3. Share third: the internet is a participatory communication device
 	2. Use the #bvmake Twitter hashtag
         3. [StackOverflow.com](http://stackoverflow.com) is your friend
 2. Download LinqPad
