@@ -41,6 +41,8 @@ void Main()
        1. Seek to understand
        2. Magic degrades understanding. People unfamiliar with spells are powerless to undo them.
 4. Advice
+    1. Go through the notes from this presentation again tomorrow.
+       1. See if you still understand all that was said. Ask questions if you don't.
     1. Avoid the buzzword bingo types
        1. If it seems like someone is trying to sell you something, they probably are.
            1. People who purchase software licenses (i.e. MSDN subscriptions) will try to justify the expense by trying to get everyone to use their purchase all the time on everything.
