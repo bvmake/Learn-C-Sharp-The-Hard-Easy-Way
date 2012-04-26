@@ -1,4 +1,7 @@
 # Learn C# the ~~Hard~~ Easy Way
+1. The two rules
+    1. Never be afraid to ask for a better explanation
+    2. Continue the conversation
 1. Download LinqPad
     1. Expression
         1. 
