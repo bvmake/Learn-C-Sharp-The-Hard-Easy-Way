@@ -48,3 +48,5 @@ void Main()
         1. Know what a piece of code is going to do before you execute it (see #3 from values)
         2. Don't be lazy.
             1. You chose to use this language, so do everyone a favor and continue to learn it.
+    3. When working in another language, learn the native tongue
+       1. Code in idiomatic (insert programming language here). It makes life better for those around you.
