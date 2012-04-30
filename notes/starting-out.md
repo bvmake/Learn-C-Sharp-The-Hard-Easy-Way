@@ -33,3 +33,11 @@ var i = 1;
 i++;
 i.Dump();
 </pre>
+
+Copy and Paste (Ctrl+C, Ctrl+V) into your text window, and then press the play arrow. You should now see the number 2 in the results window. Let's take a closer look at what just happened.
+
+The line "var i = 1;" creates the local variable "i" of type int (we'll get back to that) and assigns the integer value 1 to it. You can think of variables as buckets that hold things (in this case a number).
+
+The line "i++;" takes the value of <em>i</em> increments that value (increases by one) and assigns the incremented value to <em>i</em>. In this line, we see our first operator (++, a.k.a. the increment operator).
+
+The line "i.Dump();" places the value of i into the results window.
