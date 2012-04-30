@@ -10,7 +10,7 @@ You should be presented with a window that says "LINQPad 4" on the title bar, an
 
 To the right of play arrow, you should see a drop-down list labeled "Language (hereafter referred to as "language picker"), by default "C# Expression" should be selected in the language picker. If it isn't, select "C# Expression" from the language picker.
 
-Under the little green arrow and the language picker, there is a big empty box. This is where you will type C# code.
+Under the play arrow and the language picker, there is a big empty box. This is where you will type C# code.
 
 Click on the big empty box, then type "1 + 1". Now press the play arrow. You should see a "Results" window pop up with the number 2 in it. Congratulations! You just wrote and executed some code! Well, sort of…
 
@@ -20,4 +20,16 @@ An expression is the smallest executable bit of a program. The evaluation of an 
 From the language picker, select "C# Statement(s)". Now, where you previously typed "1 + 1", type the following (including quotation marks a.k.a. "dumb quotes"):
 <pre>
 "Hello World".Dump();
+</pre>
+
+Now push the play arrow. In the results window, you should see "Hello World". Let's talk about what just happened. Within LINQPad, there is a special method (if you are thinking, "What in the blue blazes is a method?" hold on) named "Dump". This method belongs to all objects <em>when you're working in LINQPad</em>.
+
+The "Dump" method places things into the results window for you for your inspection.
+
+Next, let's try something a little bit wordier…
+
+<pre>
+var i = 1;
+i++;
+i.Dump();
 </pre>
