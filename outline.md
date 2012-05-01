@@ -52,3 +52,5 @@ void Main()
             1. You chose to use this language, so do everyone a favor and continue to learn it.
     3. When working in another language, learn the native tongue
        1. Code in idiomatic (insert programming language here). It makes life better for those around you.
+5. Resources
+    1. [List of Books on Stack overflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
