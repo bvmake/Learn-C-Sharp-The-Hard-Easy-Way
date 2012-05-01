@@ -53,4 +53,6 @@ void Main()
     3. When working in another language, learn the native tongue
        1. Code in idiomatic (insert programming language here). It makes life better for those around you.
 5. Resources
-    1. [List of Books on Stack overflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
+    1. [How to learn C# question on Stack Overflow](http://stackoverflow.com/questions/4362446/starting-to-learn-c-sharp)
+    2. [List of Books on Stack overflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)
+    3. Quora?
