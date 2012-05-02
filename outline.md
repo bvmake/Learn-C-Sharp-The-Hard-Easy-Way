@@ -36,7 +36,7 @@
 <code>
 void Main()
 {
-    for(var i = 1; i <= 10; i++)
+    for(var i = 1; i &lt;= 10; i++)
 	{
 	    i.Dump();
     }
