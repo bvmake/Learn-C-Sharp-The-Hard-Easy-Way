@@ -2,7 +2,7 @@
 <ol>
     <li>The two rules
         <ol>
-            <li>Never be afraid to [ask](http://twitter.com/#!/rstackhouse) for a better explanation</li>
+            <li>Never be afraid to <a href="http://twitter.com/#!/rstackhouse" target="_blank">ask</a> for a better explanation</li>
             <li>Continue the conversation
                 <ol>
                     <li>Learn how to research
@@ -12,8 +12,8 @@
                             <li>Share third: the internet is a participatory communication device</li>
                         </ol>
                     </li>
-                    <li>Use the #bvmake Twitter hashtag</li>
-                    <li>[StackOverflow.com](http://stackoverflow.com) is your friend</li>
+                    <li>Use the <a href="https://twitter.com/#!/search/%23bvmake">#bvmake</a> Twitter hashtag</li>
+                    <li><a href="http://stackoverflow.com" target="_blank">StackOverflow.com</a> is your friend</li>
                 </ol>
             </li>
         </ol>
@@ -92,8 +92,8 @@ void Main()
     </li>
     <li>Resources
         <ol>
-            <li>[How to learn C# question on Stack Overflow](http://stackoverflow.com/questions/4362446/starting-to-learn-c-sharp)</li>
-            <li>[List of Books on Stack overflow](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books)</li>
+            <li><a href="http://stackoverflow.com/questions/4362446/starting-to-learn-c-sharp" target="_blank">How to learn C# question on Stack Overflow</a></li>
+            <li><a href="http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books" target="_blank">List of Books on Stack overflow</a></li>
             <li>Quora?</li>
         </ol>
     </li>
