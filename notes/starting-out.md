@@ -34,10 +34,25 @@ i++;
 i.Dump();
 </pre>
 
-Copy and Paste (Ctrl+C, Ctrl+V) into your text window, and then press the play arrow. You should now see the number 2 in the results window. Let's take a closer look at what just happened.
+Type the above into your text window, and then press the play arrow. You should now see the number 2 in the results window. Let's take a closer look at what just happened.
 
 The line "var i = 1;" creates the local variable "i" of type int (we'll get back to that) and assigns the integer value 1 to it. You can think of variables as buckets that hold things (in this case a number).
 
 The line "i++;" takes the value of <em>i</em> increments that value (increases by one) and assigns the incremented value to <em>i</em>. In this line, we see our first operator (++, a.k.a. the increment operator).
 
 The line "i.Dump();" places the value of i into the results window.
+
+#Back to Your Regularly Scheduled Program
+
+From the language picker, select "C# Program". In the text window, type the following:
+<pre>
+void Main()
+{
+    for(var i = 1; i &lt;= 10; i++)
+    {
+        i.Dump();
+    }
+}
+</pre>
+
+We've just seen our first control flow statement (a [for](http://msdn.microsoft.com/en-us/library/aa664753(v=vs.71).aspx) statement to be precise). A *for* statement is a pretty simple little device. There are three optional expressions after the word *for* and between the *(* and *)*
