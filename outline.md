@@ -12,7 +12,7 @@
                             <li>Share third: the internet is a participatory communication device</li>
                         </ol>
                     </li>
-                    <li>Use the <a href="https://twitter.com/#!/search/%23bvmake">#bvmake</a> Twitter hashtag</li>
+                    <li>Use the <a href="https://twitter.com/#!/search/%23bvmake">#bvmake</a> Twitter hashtag ( <a href="https://twitter.com/#!/search/%23batsignal" target="_blank">#batsignal</a> for speedier service)</li>
                     <li><a href="http://stackoverflow.com" target="_blank">StackOverflow.com</a> is your friend</li>
                 </ol>
             </li>
