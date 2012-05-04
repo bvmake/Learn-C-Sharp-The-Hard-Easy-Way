@@ -55,4 +55,4 @@ void Main()
 }
 </pre>
 
-We've just seen our first control flow statement (a [for](http://msdn.microsoft.com/en-us/library/aa664753(v=vs.71).aspx) statement to be precise). A *for* statement is a pretty simple little device. There are three optional expressions after the word *for* and between the *(* and *)*
+We've just seen our first control flow statement (a [for](http://msdn.microsoft.com/en-us/library/aa664753\(v=vs.71\).aspx) statement to be precise). A *for* statement is a pretty simple little device. There are three optional expressions after the word *for* and between the *(* and *)*
