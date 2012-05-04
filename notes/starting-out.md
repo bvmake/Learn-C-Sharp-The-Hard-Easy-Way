@@ -84,3 +84,23 @@ void Main()
 }
 </pre>
 
+#Getting Methodical
+
+Ensuring that you've got "C# Program" selected in the language picker, type in the following code:
+
+<pre>
+void Main()
+{
+    CountToTen();
+}
+
+void CountToTen()
+{
+    for(var i = 1; i &lt;= 10; i++)
+    {
+        i.Dump();
+    }
+}
+</pre>
+
+Execute the code by clicking on the play arrow. The result is the same, but the structure of the code is different. The code that begins with *void CountToTen()* is called a method. Methods help us organize our code by giving a name to the behavior that they carry out. The code *CountToTen();* is called a method call. Method calls (a.k.a. method invocation) are how we get methods to carry out their work. Taking what we know, let's write a program.
