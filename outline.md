@@ -46,6 +46,14 @@ void Main()
             </li>
         </ol>
     </li>
+    <li>
+    	Download Notepad++
+	    <ol>
+	        <li>Count to ten from the command line.</li>
+            <li>Word of the day</li>
+            <li>Word of the day via web request</li>
+    	</ol>
+    </li>
     <li>Values
         <ol>
             <li>Write code for humans. Write programs for machines.</li>
