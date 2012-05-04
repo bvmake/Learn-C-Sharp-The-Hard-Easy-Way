@@ -55,4 +55,4 @@ void Main()
 }
 </pre>
 
-We've just seen our first control flow statement (a [for](http://msdn.microsoft.com/en-us/library/aa664753\(v=vs.71\).aspx) statement to be precise). A *for* statement is a pretty simple little device. There are three optional expressions after the word *for* and between the *(* and *)*
+We've just seen our first control flow statement (a [for](http://msdn.microsoft.com/en-us/library/aa664753\(v=vs.71\).aspx) statement to be precise). A *for* statement is a pretty simple little device. There are three optional expressions after the word *for* and between the *(* and *)*. They are: the initializer, the condition, and the iterator. The initializer creates a variable that only has scope (meaning) inside the for loop—between the *{* and *}*—and sets its value. The condition tells the for loop when to stop looping—in this case when the value of *i* is 11. The iterator can really be any expression (or comma separated list of expressions), but by convention is usually used to increment the variable declared in the initializer expression.
