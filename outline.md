@@ -102,8 +102,8 @@ void Main()
         <ol>
             <li><a href="http://stackoverflow.com/questions/4362446/starting-to-learn-c-sharp" target="_blank">How to learn C# question on Stack Overflow</a></li>
             <li><a href="http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books" target="_blank">List of Books on Stack overflow</a></li>
-            <li>Quora?</li>
-            <li><a href="http://www.pluralsight-training.net/microsoft/Courses/TableOfContents?courseName=csharp-fundamentals">PluralSight?</a>
+            <li><a href="http://www.quora.com/C-programming-language-2" target="_blank">Quora?</a></li>
+            <li><a href="http://www.pluralsight-training.net/microsoft/Courses/TableOfContents?courseName=csharp-fundamentals" target="_blank">PluralSight?</a>
         </ol>
     </li>
 </ol>
