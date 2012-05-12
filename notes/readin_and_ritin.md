@@ -11,6 +11,8 @@ Thursday: interface-An interface contains only the signatures of methods, proper
 Friday: destructor-Destructors are used to destruct instances of classes.
 </pre>
 
+Save your new file to your desktop with the name *word_of_the_day.txt*
+
 The above text will give us something to read into our program. Modify *Program.cs* as follows:
 
 <pre>
