@@ -3,7 +3,7 @@ Let's get started. You are going to need a few things and going to have to do so
 
 The first thing we'll need is LINQPad. It is a program that you can type C# code into and test it to see if it works. You can download it from [this page](http://www.linqpad.net/). The "Low Impact Setup" for .NET 4.0 (referred to as FW 4.0 on the linqpad site) is recommended.
 
-#Let's Get Expressive
+#<a name="expressive">Let's Get Expressive</a>
 Once LINQPad is installed on your computer, run it by clicking on the desktop icon (or on LINQPad.exe if you downloaded the zip file).
 
 You should be presented with a window that says "LINQPad 4" on the title bar, and has a tab inside it labeled "Query 1". Under "Query 1", you should see a little green "play" arrow (hereafter referred to as play arrow).
@@ -16,7 +16,7 @@ Click on the big empty box, then type "1 + 1". Now press the play arrow. You sho
 
 An expression is the smallest executable bit of a program. The evaluation of an expression (i.e. 1 + 1) results in a value (i.e. 2). Expressions are important, but by themselves, they are useless.
 
-#Making a Statement
+#<a name="statement">Making a Statement</a>
 From the language picker, select "C# Statement(s)". Now, where you previously typed "1 + 1", type the following (including quotation marks a.k.a. "dumb quotes"):
 <pre>
 "Hello World".Dump();
@@ -42,7 +42,7 @@ The line "i++;" takes the value of <em>i</em> increments that value (increases b
 
 The line "i.Dump();" places the value of i into the results window.
 
-#Back to Your Regularly Scheduled Program
+#<a name="program">Back to Your Regularly Scheduled Program</a>
 
 From the language picker, select "C# Program". In the text window, type the following:
 <pre>
@@ -84,7 +84,7 @@ void Main()
 }
 </pre>
 
-#Getting Methodical
+#<a name="method">Getting Methodical</a>
 
 Ensuring that you've got "C# Program" selected in the language picker, type in the following code:
 
