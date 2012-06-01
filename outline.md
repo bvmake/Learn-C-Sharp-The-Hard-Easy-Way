@@ -17,12 +17,12 @@
                 </ol>
             </li>
         </ol>
-    <li>Download LinqPad
+    <li><a href="../notes/starting-out.md" target="_blank">Download LinqPad</a>
         <ol>
-            <li>Expression
+            <li><a href="../notes/starting-out.md#expressive" target="_blank">Expression</a>
 <pre>1 + 1</pre>
             </li>
-            <li>Statement
+            <li><a href="../notes/starting-out.md#statement" target="_blank">Statement</a>
 <pre>"Hello World".Dump();</pre>
             </li>
             <li>Statements
@@ -31,7 +31,7 @@
     i.Dump();
 </pre>
             </li>
-            <li>Program
+            <li><a href="../notes/starting-out.md#program" target="_blank">Program</a>
 <pre>
 <code>
 void Main()
