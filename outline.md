@@ -17,7 +17,9 @@
                 </ol>
             </li>
         </ol>
-    <li><a href="../master/notes/starting-out.md" target="_blank">Download LinqPad</a>
+    </li>
+    <li><a href="../master/notes/starting-out.md" target="_blank">Download CSharpRepl (comes with Mono)</a></li>
+    <li><a href="../master/notes/starting-out.md#linqpad" target="_blank">Download LinqPad</a>
         <ol>
             <li><a href="../master/notes/starting-out.md#expressive" target="_blank">Expression</a>
 <pre>1 + 1</pre>
