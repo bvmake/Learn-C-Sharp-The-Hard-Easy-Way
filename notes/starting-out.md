@@ -1,7 +1,10 @@
 #Starting Line
 Let's get started. You are going to need a few things and going to have to do some small chores before we can start coding in C#.
+The first thing we'll need is <a href="http://www.mono-project.com/CsharpRepl" target="_blank">CSharpRepl</a>. It is an interactive programming environment for C# that ships with Mono. You can download it <a href="http://www.go-mono.com/mono-downloads/download.html" target="_blank">here</a>.
 
-The first thing we'll need is LINQPad. It is a program that you can type C# code into and test it to see if it works. You can download it from [this page](http://www.linqpad.net/). The "Low Impact Setup" for .NET 4.0 (referred to as FW 4.0 on the linqpad site) is recommended.
+
+#<a name="linqing">Linqing it Together</a>
+The next thing we'll need is is LINQPad. It is a program that you can type C# code into and test it to see if it works. You can download it from [this page](http://www.linqpad.net/). The "Low Impact Setup" for .NET 4.0 (referred to as FW 4.0 on the linqpad site) is recommended.
 
 #<a name="expressive">Let's Get Expressive</a>
 Once LINQPad is installed on your computer, run it by clicking on the desktop icon (or on LINQPad.exe if you downloaded the zip file).
