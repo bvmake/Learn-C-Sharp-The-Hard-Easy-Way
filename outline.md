@@ -113,6 +113,7 @@ void Main()
             <li><a href="http://www.quora.com/C-programming-language-2" target="_blank">Quora?</a></li>
             <li><a href="http://www.pluralsight-training.net/microsoft/Courses/TableOfContents?courseName=csharp-fundamentals" target="_blank">PluralSight?</a>
             <li><a href="http://www.dreamincode.net/forums/topic/212584-recommended-c%23-books/" target="_blank">http://www.dreamincode.net/forums/topic/212584-recommended-c%23-books/</a>
+            <li><a href="http://www.readwriteweb.com/hack/2011/05/free-e-books-on-c.php" target="_blank">8 Free Books on C#</a>
         </ol>
     </li>
 </ol>
