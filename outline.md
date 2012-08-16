@@ -18,6 +18,17 @@
             </li>
         </ol>
     </li>
+    <li> Goals
+    	<ul> 
+    		<li> You should be able to do the following after the presentation:
+    			<ol>
+    				<li> Experiment with C# in more than one scratchpad/testbed </li>
+    				<li> Write small C# programs </li>
+    				<li> Compile C# programs </li>
+				</ol>
+			</li>
+    	</ul>
+    </li>
     <li><a href="../master/notes/starting-out.md" target="_blank">Download CSharpRepl (comes with Mono)</a></li>
     <li><a href="../master/notes/starting-out.md#linqpad" target="_blank">Download LinqPad</a>
         <ol>
