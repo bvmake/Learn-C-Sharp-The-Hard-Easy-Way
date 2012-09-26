@@ -2,6 +2,8 @@
 Let's get started. You are going to need a few things and going to have to do some small chores before we can start coding in C#.
 The first thing we'll need is <a href="http://www.mono-project.com/CsharpRepl" target="_blank">CSharpRepl</a>. It is an interactive programming environment for C# that ships with Mono. You can download it <a href="http://www.go-mono.com/mono-downloads/download.html" target="_blank">here</a>.
 
+#<a name="repl">REPL-ing</a>
+To start the REPL, open a command prompt (try pressing the Windows Key and R together to bring up the run box, then type in &quot;cmd&quot;). Then navigate to the folder you installed Mono to by issuing a command like <em>cd "C:\Program Files(x86)\Mono-2.10.8\bin"</em>. <em>NOTE:</em> the path to where your Mono executable files live may be different than mine, especially if you downloaded a newer version of Mono.
 
 #<a name="linqing">Linqing it Together</a>
 The next thing we'll need is is LINQPad. It is a program that you can type C# code into and test it to see if it works. You can download it from [this page](http://www.linqpad.net/). The "Low Impact Setup" for .NET 4.0 (referred to as FW 4.0 on the linqpad site) is recommended.
