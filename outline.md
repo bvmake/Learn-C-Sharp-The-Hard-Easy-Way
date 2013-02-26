@@ -93,6 +93,18 @@ void Main()
     </li>
     <li>Advice
         <ol>
+            <li>Know thy toolset (within reason)
+            	<ol>
+            	    <li> Know (some) keyboard shortcuts Ctrl + L and Ctrl + K, Ctrl + C are the same between LinqPad and VS.</li>
+    	            <li> Don't fall victim to the paradox of becoming inefficient by trying to be overly efficient.
+    	            	<ol>
+    	            	    <li>Return on effort should always outweigh cost of learning/implementation.</li>
+    	            	    <li>Don't bother trying learn all the keyboard shortcuts, because you probably will never use them all.</li>
+    	            	    <li>Do learn basic things that are portable across editor like keyboard text selection</li>
+                	</ol>
+    	            </li>
+    	  	</ol>
+            </li>
             <li>Go through the notes from this presentation again tomorrow.
                 <ol>
                     <li>. See if you still understand all that was said. Ask questions if you don't.</li>
