@@ -13,6 +13,7 @@ class Program
     public static void Main(string[] args)
     {
         CountToTen();
+		Console.ReadLine(); // wait for your input
     }
 
     private static void CountToTen()
